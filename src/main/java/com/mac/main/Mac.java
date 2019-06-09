@@ -35,7 +35,7 @@ public class Mac {
     }
 
     public static void loopThroughString() {
-
+        System.out.println("test");
         System.out.println("this is not working");
     }
 
